@@ -1,0 +1,7 @@
+D:\T3H Studying\Buoi1\Buoi1_BTVN2\Buoi1_BTVN2\obj\Debug\Buoi1_BTVN2.csproj.AssemblyReference.cache
+D:\T3H Studying\Buoi1\Buoi1_BTVN2\Buoi1_BTVN2\obj\Debug\Buoi1_BTVN2.csproj.CoreCompileInputs.cache
+D:\T3H Studying\Buoi1\Buoi1_BTVN2\Buoi1_BTVN2\bin\Debug\Buoi1_BTVN2.exe.config
+D:\T3H Studying\Buoi1\Buoi1_BTVN2\Buoi1_BTVN2\bin\Debug\Buoi1_BTVN2.exe
+D:\T3H Studying\Buoi1\Buoi1_BTVN2\Buoi1_BTVN2\bin\Debug\Buoi1_BTVN2.pdb
+D:\T3H Studying\Buoi1\Buoi1_BTVN2\Buoi1_BTVN2\obj\Debug\Buoi1_BTVN2.exe
+D:\T3H Studying\Buoi1\Buoi1_BTVN2\Buoi1_BTVN2\obj\Debug\Buoi1_BTVN2.pdb
