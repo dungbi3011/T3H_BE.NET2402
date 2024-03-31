@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T3H Studying\\Buoi 4\\Buoi4_BaiTap\\Buoi4_BaiTap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF900D7-A4DA-4D94-92D6-FE0658B826DF}|Buoi4_BaiTap1\\Buoi4_BaiTap1.csproj|d:\\t3h studying\\buoi 4\\buoi4_baitap\\buoi4_baitap1\\buoi4_baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF900D7-A4DA-4D94-92D6-FE0658B826DF}|Buoi4_BaiTap1\\Buoi4_BaiTap1.csproj|solutionrelative:buoi4_baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 4\\Buoi4_BaiTap\\Buoi4_BaiTap1\\Buoi4_BaiTap1\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_BaiTap1\\Program.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 4\\Buoi4_BaiTap\\Buoi4_BaiTap1\\Buoi4_BaiTap1\\Program.cs",
+              "RelativeToolTip": "Buoi4_BaiTap1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:37:52.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
