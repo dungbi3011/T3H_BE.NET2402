@@ -1,0 +1,7 @@
+D:\T3H Studying\Buoi 5\Buoi5_BaiTap\Buoi5_BaiTap3\Buoi5_BaiTap3\bin\Debug\Buoi5_BaiTap3.exe.config
+D:\T3H Studying\Buoi 5\Buoi5_BaiTap\Buoi5_BaiTap3\Buoi5_BaiTap3\bin\Debug\Buoi5_BaiTap3.exe
+D:\T3H Studying\Buoi 5\Buoi5_BaiTap\Buoi5_BaiTap3\Buoi5_BaiTap3\bin\Debug\Buoi5_BaiTap3.pdb
+D:\T3H Studying\Buoi 5\Buoi5_BaiTap\Buoi5_BaiTap3\Buoi5_BaiTap3\obj\Debug\Buoi5_BaiTap3.csproj.AssemblyReference.cache
+D:\T3H Studying\Buoi 5\Buoi5_BaiTap\Buoi5_BaiTap3\Buoi5_BaiTap3\obj\Debug\Buoi5_BaiTap3.csproj.CoreCompileInputs.cache
+D:\T3H Studying\Buoi 5\Buoi5_BaiTap\Buoi5_BaiTap3\Buoi5_BaiTap3\obj\Debug\Buoi5_BaiTap3.exe
+D:\T3H Studying\Buoi 5\Buoi5_BaiTap\Buoi5_BaiTap3\Buoi5_BaiTap3\obj\Debug\Buoi5_BaiTap3.pdb
