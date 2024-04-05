@@ -123,7 +123,9 @@ namespace Buoi5_BTVN1
             Console.WriteLine("Danh sach nhan vien lam viec >= 5 nam:");
             foreach (NhanVien nv in danhSach)
             {
-                if ((DateTime.Now.Year - nv.ngayVaoLam.Year) >= 5)
+                DateTime zeroTime = new DateTime(1, 1, 1);
+                TimeSpan workTime = DateTime.Now - nv.ngayVaoLam;
+                if ( ((zeroTime + workTime).Year - 1) >= 5)
                 {
                     Console.WriteLine($"{nv.id} - {nv.hoDem} {nv.ten} - {nv.ngaySinh:dd/MM/yyyy} - {nv.ngayVaoLam:dd/MM/yyyy}");
                 }
