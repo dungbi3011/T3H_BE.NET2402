@@ -115,7 +115,7 @@ namespace Buoi5_BTVN1
 
         static List<NhanVien> sapXep(List<NhanVien> danhSach)
         {
-            return danhSach.OrderByDescending(nv => nv.ngaySinh).ToList();
+            return danhSach.OrderByDescending(nv => nv.ngaySinh).ToList(); //function search tren mang
         }
 
         static void hienThiHon5Nam(List<NhanVien> danhSach)
