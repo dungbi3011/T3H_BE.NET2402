@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\buoi8_btvn1\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|solutionrelative:buoi8_btvn1\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|d:\\t3h studying\\buoi 8\\buoi8_btvn\\buoi8_btvn1\\buoi8_btvn1\\yeu_cau_chuong_trinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|solutionrelative:buoi8_btvn1\\yeu_cau_chuong_trinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\buoi8_btvn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|solutionrelative:buoi8_btvn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\buoi8_btvn1\\hangquanao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|solutionrelative:buoi8_btvn1\\hangquanao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\buoi8_btvn1\\hangthucpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|solutionrelative:buoi8_btvn1\\hangthucpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\buoi8_btvn1\\hangdientu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|solutionrelative:buoi8_btvn1\\hangdientu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\buoi8_btvn1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|solutionrelative:buoi8_btvn1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\buoi8_btvn1\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B26FAA-1596-49C8-8EF6-F8046CD2DB53}|Buoi8_BTVN1\\Buoi8_BTVN1.csproj|solutionrelative:buoi8_btvn1\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangQuanAo.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\HangQuanAo.cs",
+              "RelativeDocumentMoniker": "Buoi8_BTVN1\\HangQuanAo.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\HangQuanAo.cs",
+              "RelativeToolTip": "Buoi8_BTVN1\\HangQuanAo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:10:06.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HangThucPham.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\HangThucPham.cs",
+              "RelativeDocumentMoniker": "Buoi8_BTVN1\\HangThucPham.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\HangThucPham.cs",
+              "RelativeToolTip": "Buoi8_BTVN1\\HangThucPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:10:00.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HangDienTu.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\HangDienTu.cs",
+              "RelativeDocumentMoniker": "Buoi8_BTVN1\\HangDienTu.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\HangDienTu.cs",
+              "RelativeToolTip": "Buoi8_BTVN1\\HangDienTu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:09:55.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\Product.cs",
+              "RelativeDocumentMoniker": "Buoi8_BTVN1\\Product.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\Product.cs",
+              "RelativeToolTip": "Buoi8_BTVN1\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:09:46.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReturnData.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\ReturnData.cs",
+              "RelativeDocumentMoniker": "Buoi8_BTVN1\\ReturnData.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\ReturnData.cs",
+              "RelativeToolTip": "Buoi8_BTVN1\\ReturnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:41:05.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationData.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\ValidationData.cs",
+              "RelativeDocumentMoniker": "Buoi8_BTVN1\\ValidationData.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\ValidationData.cs",
+              "RelativeToolTip": "Buoi8_BTVN1\\ValidationData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:01:00.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yeu_cau_chuong_trinh.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\Yeu_cau_chuong_trinh.cs",
+              "RelativeDocumentMoniker": "Buoi8_BTVN1\\Yeu_cau_chuong_trinh.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\Yeu_cau_chuong_trinh.cs",
+              "RelativeToolTip": "Buoi8_BTVN1\\Yeu_cau_chuong_trinh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:57:46.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi8_BTVN1\\Program.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 8\\Buoi8_BTVN\\Buoi8_BTVN1\\Buoi8_BTVN1\\Program.cs",
+              "RelativeToolTip": "Buoi8_BTVN1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:20:48.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
