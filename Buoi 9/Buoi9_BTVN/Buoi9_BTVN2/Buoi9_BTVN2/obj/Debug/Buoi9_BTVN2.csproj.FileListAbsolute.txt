@@ -1,0 +1,7 @@
+D:\T3H Studying\Buoi 9\Buoi9_BTVN\Buoi9_BTVN2\Buoi9_BTVN2\bin\Debug\Buoi9_BTVN2.exe.config
+D:\T3H Studying\Buoi 9\Buoi9_BTVN\Buoi9_BTVN2\Buoi9_BTVN2\bin\Debug\Buoi9_BTVN2.exe
+D:\T3H Studying\Buoi 9\Buoi9_BTVN\Buoi9_BTVN2\Buoi9_BTVN2\bin\Debug\Buoi9_BTVN2.pdb
+D:\T3H Studying\Buoi 9\Buoi9_BTVN\Buoi9_BTVN2\Buoi9_BTVN2\obj\Debug\Buoi9_BTVN2.csproj.AssemblyReference.cache
+D:\T3H Studying\Buoi 9\Buoi9_BTVN\Buoi9_BTVN2\Buoi9_BTVN2\obj\Debug\Buoi9_BTVN2.csproj.CoreCompileInputs.cache
+D:\T3H Studying\Buoi 9\Buoi9_BTVN\Buoi9_BTVN2\Buoi9_BTVN2\obj\Debug\Buoi9_BTVN2.exe
+D:\T3H Studying\Buoi 9\Buoi9_BTVN\Buoi9_BTVN2\Buoi9_BTVN2\obj\Debug\Buoi9_BTVN2.pdb
