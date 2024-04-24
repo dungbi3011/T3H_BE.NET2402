@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|d:\\t3h studying\\buoi 10\\module1_btvn\\module_1\\module_1\\dal_implement\\hotelmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|solutionrelative:module_1\\dal_implement\\hotelmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\module_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|solutionrelative:module_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\module_1\\dal\\ihotelmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|solutionrelative:module_1\\dal\\ihotelmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\module_1\\dto\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|solutionrelative:module_1\\dto\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\module_1\\dto\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|solutionrelative:module_1\\dto\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\module_1\\dto\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|solutionrelative:module_1\\dto\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\module_1\\dto\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|solutionrelative:module_1\\dto\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\module_1\\commonlib\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BDDEF4-5B5B-4AB7-A00D-65B3A661B707}|Module_1\\Module_1.csproj|solutionrelative:module_1\\commonlib\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationData.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\CommonLib\\ValidationData.cs",
+              "RelativeDocumentMoniker": "Module_1\\CommonLib\\ValidationData.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\CommonLib\\ValidationData.cs",
+              "RelativeToolTip": "Module_1\\CommonLib\\ValidationData.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwD8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DTO\\State.cs",
+              "RelativeDocumentMoniker": "Module_1\\DTO\\State.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DTO\\State.cs",
+              "RelativeToolTip": "Module_1\\DTO\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:05.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DTO\\Booking.cs",
+              "RelativeDocumentMoniker": "Module_1\\DTO\\Booking.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DTO\\Booking.cs",
+              "RelativeToolTip": "Module_1\\DTO\\Booking.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:04.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DTO\\RoomType.cs",
+              "RelativeDocumentMoniker": "Module_1\\DTO\\RoomType.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DTO\\RoomType.cs",
+              "RelativeToolTip": "Module_1\\DTO\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:03.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DTO\\Room.cs",
+              "RelativeDocumentMoniker": "Module_1\\DTO\\Room.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DTO\\Room.cs",
+              "RelativeToolTip": "Module_1\\DTO\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:01.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHotelManagementSystem.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DAL\\IHotelManagementSystem.cs",
+              "RelativeDocumentMoniker": "Module_1\\DAL\\IHotelManagementSystem.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DAL\\IHotelManagementSystem.cs",
+              "RelativeToolTip": "Module_1\\DAL\\IHotelManagementSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:06.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelManagementSystem.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DAL_Implement\\HotelManagementSystem.cs",
+              "RelativeDocumentMoniker": "Module_1\\DAL_Implement\\HotelManagementSystem.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\DAL_Implement\\HotelManagementSystem.cs",
+              "RelativeToolTip": "Module_1\\DAL_Implement\\HotelManagementSystem.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:07.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\Program.cs",
+              "RelativeDocumentMoniker": "Module_1\\Program.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 10\\Module1_BTVN\\Module_1\\Module_1\\Program.cs",
+              "RelativeToolTip": "Module_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:05.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

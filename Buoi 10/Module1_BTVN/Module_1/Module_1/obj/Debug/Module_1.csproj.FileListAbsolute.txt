@@ -1,0 +1,7 @@
+D:\T3H Studying\Buoi 10\Module1_BTVN\Module_1\Module_1\bin\Debug\Module_1.exe.config
+D:\T3H Studying\Buoi 10\Module1_BTVN\Module_1\Module_1\bin\Debug\Module_1.exe
+D:\T3H Studying\Buoi 10\Module1_BTVN\Module_1\Module_1\bin\Debug\Module_1.pdb
+D:\T3H Studying\Buoi 10\Module1_BTVN\Module_1\Module_1\obj\Debug\Module_1.csproj.AssemblyReference.cache
+D:\T3H Studying\Buoi 10\Module1_BTVN\Module_1\Module_1\obj\Debug\Module_1.csproj.CoreCompileInputs.cache
+D:\T3H Studying\Buoi 10\Module1_BTVN\Module_1\Module_1\obj\Debug\Module_1.exe
+D:\T3H Studying\Buoi 10\Module1_BTVN\Module_1\Module_1\obj\Debug\Module_1.pdb
