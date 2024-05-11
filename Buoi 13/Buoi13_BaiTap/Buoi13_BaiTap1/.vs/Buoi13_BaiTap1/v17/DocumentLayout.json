@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F430943A-0B79-48BC-BCED-DA64B8C7EC03}|Buoi13_BaiTap1\\Buoi13_BaiTap1.csproj|d:\\t3h studying\\buoi 13\\buoi13_baitap\\buoi13_baitap1\\buoi13_baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F430943A-0B79-48BC-BCED-DA64B8C7EC03}|Buoi13_BaiTap1\\Buoi13_BaiTap1.csproj|solutionrelative:buoi13_baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1C3AC-6653-407D-B6D6-FE42754B2917}|EBook.DataAccess.NetCore\\EBook.DataAccess.NetCore.csproj|d:\\t3h studying\\buoi 13\\buoi13_baitap\\buoi13_baitap1\\ebook.dataaccess.netcore\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1C3AC-6653-407D-B6D6-FE42754B2917}|EBook.DataAccess.NetCore\\EBook.DataAccess.NetCore.csproj|solutionrelative:ebook.dataaccess.netcore\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1C3AC-6653-407D-B6D6-FE42754B2917}|EBook.DataAccess.NetCore\\EBook.DataAccess.NetCore.csproj|d:\\t3h studying\\buoi 13\\buoi13_baitap\\buoi13_baitap1\\ebook.dataaccess.netcore\\iservices\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1C3AC-6653-407D-B6D6-FE42754B2917}|EBook.DataAccess.NetCore\\EBook.DataAccess.NetCore.csproj|solutionrelative:ebook.dataaccess.netcore\\iservices\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1C3AC-6653-407D-B6D6-FE42754B2917}|EBook.DataAccess.NetCore\\EBook.DataAccess.NetCore.csproj|d:\\t3h studying\\buoi 13\\buoi13_baitap\\buoi13_baitap1\\ebook.dataaccess.netcore\\dto\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1C3AC-6653-407D-B6D6-FE42754B2917}|EBook.DataAccess.NetCore\\EBook.DataAccess.NetCore.csproj|solutionrelative:ebook.dataaccess.netcore\\dto\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1C3AC-6653-407D-B6D6-FE42754B2917}|EBook.DataAccess.NetCore\\EBook.DataAccess.NetCore.csproj|d:\\t3h studying\\buoi 13\\buoi13_baitap\\buoi13_baitap1\\ebook.dataaccess.netcore\\dbcontext\\ebookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1C3AC-6653-407D-B6D6-FE42754B2917}|EBook.DataAccess.NetCore\\EBook.DataAccess.NetCore.csproj|solutionrelative:ebook.dataaccess.netcore\\dbcontext\\ebookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\EBook.DataAccess.NetCore\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "EBook.DataAccess.NetCore\\Services\\BookServices.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\EBook.DataAccess.NetCore\\Services\\BookServices.cs",
+              "RelativeToolTip": "EBook.DataAccess.NetCore\\Services\\BookServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:37:47.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookServices.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\EBook.DataAccess.NetCore\\IServices\\IBookServices.cs",
+              "RelativeDocumentMoniker": "EBook.DataAccess.NetCore\\IServices\\IBookServices.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\EBook.DataAccess.NetCore\\IServices\\IBookServices.cs",
+              "RelativeToolTip": "EBook.DataAccess.NetCore\\IServices\\IBookServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:35:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EBookDBContext.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\EBook.DataAccess.NetCore\\DBContext\\EBookDBContext.cs",
+              "RelativeDocumentMoniker": "EBook.DataAccess.NetCore\\DBContext\\EBookDBContext.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\EBook.DataAccess.NetCore\\DBContext\\EBookDBContext.cs",
+              "RelativeToolTip": "EBook.DataAccess.NetCore\\DBContext\\EBookDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:28:59.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\EBook.DataAccess.NetCore\\DTO\\Book.cs",
+              "RelativeDocumentMoniker": "EBook.DataAccess.NetCore\\DTO\\Book.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\EBook.DataAccess.NetCore\\DTO\\Book.cs",
+              "RelativeToolTip": "EBook.DataAccess.NetCore\\DTO\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:23:51.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\Buoi13_BaiTap1\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi13_BaiTap1\\Program.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BaiTap\\Buoi13_BaiTap1\\Buoi13_BaiTap1\\Program.cs",
+              "RelativeToolTip": "Buoi13_BaiTap1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:21:56.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

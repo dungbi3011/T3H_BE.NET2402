@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi13_BaiTap1", "Buoi13_BaiTap1\Buoi13_BaiTap1.csproj", "{F430943A-0B79-48BC-BCED-DA64B8C7EC03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EBook.DataAccess.NetCore", "EBook.DataAccess.NetCore\EBook.DataAccess.NetCore.csproj", "{D8F1C3AC-6653-407D-B6D6-FE42754B2917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F430943A-0B79-48BC-BCED-DA64B8C7EC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F430943A-0B79-48BC-BCED-DA64B8C7EC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F430943A-0B79-48BC-BCED-DA64B8C7EC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F430943A-0B79-48BC-BCED-DA64B8C7EC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F1C3AC-6653-407D-B6D6-FE42754B2917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F1C3AC-6653-407D-B6D6-FE42754B2917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F1C3AC-6653-407D-B6D6-FE42754B2917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F1C3AC-6653-407D-B6D6-FE42754B2917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {012228AB-AAFE-4145-B977-0B73A2B43176}
+	EndGlobalSection
+EndGlobal
