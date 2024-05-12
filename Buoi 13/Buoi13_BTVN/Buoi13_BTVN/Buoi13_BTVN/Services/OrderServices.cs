@@ -50,6 +50,8 @@ namespace Buoi13_BTVN.Services
                     int khachHangID = 1;
                     long tongTien = list[index].Gia;
                     Orders order = new Orders(ngayDatHang, khachHangID, diaChiGiaoHang, tongTien);
+                    _eBookDBContext.orders.ToList().Add(order);
+                    Console.WriteLine("Mua hang thanh cong!");
                 } else
                 {
                     Console.WriteLine("Khong tim thay sach tuong ung.");
