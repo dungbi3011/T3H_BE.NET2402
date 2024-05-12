@@ -11,6 +11,7 @@ Console.WriteLine("2. Them, sua, xoa, hien thi, tim kiem thong tin tac gia.");
 Console.WriteLine("3. Them, sua, xoa, hien thi, tim kiem thong tin khach hang.");
 Console.WriteLine("4. Thuc hien chuc nang mua hang.");
 Console.WriteLine("5. Hien thi danh sach don hang, tim kiem va xem chi tiet don hang.");
+Console.WriteLine("0. Thoat chuong trinh.");
 
 // Viết menu chương trình 
 while (true)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookConsoleAppNetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+020bf936fa76d09dce23a253fd9a09b612876133")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3785bde7ab7821b78249f68ee33c83c9d53d339f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookConsoleAppNetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookConsoleAppNetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
