@@ -42,6 +42,7 @@ namespace Buoi13_BTVN.Services
             if (Book_Find(tenSachCanMua) != null && ValidationData.KiemTraInputChu(tenSachCanMua) && ValidationData.KiemTraInputChu(diaChiGiaoHang))
             {
                 var list = _eBookDBContext.books.ToList();
+                //Check xem co sach can mua khong
                 int index = list.FindIndex(b => b.Ten == tenSachCanMua);
                 if (index != 1)
                 {

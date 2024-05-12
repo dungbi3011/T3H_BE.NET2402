@@ -14,9 +14,16 @@ namespace Buoi13_BTVN.Services
     {
         EBookDBContext _eBookDBContext = new EBookDBContext();
 
-        public async Task<List<Customers>> GetCustomers()
+        public async Task GetCustomers()
         {
-            return _eBookDBContext.customers.ToList();
+            var list = _eBookDBContext.customers.ToList();
+            foreach (var customer in list)
+            {
+                Console.WriteLine("ID Khach hang: " + customer.CustomerID);
+                Console.WriteLine("Ten khach hang: " + customer.TenKhachHang);
+                Console.WriteLine("Ngay sinh: " + customer.NgaySinh);
+                Console.WriteLine("Gioi tinh: " + customer.GioiTinh);
+            }
         }
 
         public async Task<int> Customer_Insert()

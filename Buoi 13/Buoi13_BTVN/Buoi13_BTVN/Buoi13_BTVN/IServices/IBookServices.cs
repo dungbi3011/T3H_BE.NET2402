@@ -9,7 +9,7 @@ namespace Buoi13_BTVN.IServices
 {
     public interface IBookServices
     {
-        Task<List<Books>> GetBooks();
+        Task GetBooks();
         Task<int> Book_Insert();
         Task<Books> Book_Find(string ten);
         Task Book_Delete();

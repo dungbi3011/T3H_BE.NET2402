@@ -12,9 +12,16 @@ namespace Buoi13_BTVN.Services
     public class OrderDetailsServices
     {
         EBookDBContext _eBookDBContext = new EBookDBContext();
-        public async Task<List<OrderDetails>> GetOrderDetails()
+        public async Task GetOrderDetails()
         {
-            return _eBookDBContext.orderDetails.ToList();
+            var list = _eBookDBContext.orderDetails.ToList();
+            foreach (var orderDetail in list) {
+                Console.WriteLine("OrderDetailID: " + orderDetail.OrderDetailsID);
+                Console.WriteLine("ID Don hang: " + orderDetail.OrderID);
+                Console.WriteLine("ID Sach: " + orderDetail.BookID);
+                Console.WriteLine("So luong san pham: " + orderDetail.SoLuongSanPham);
+                Console.WriteLine("Gia ban tai thoi diem: " + orderDetail.GiaBanTaiThoiDiem);
+            }
         }
 
         public async Task<int> OrderDetails_Insert()
@@ -28,14 +35,18 @@ namespace Buoi13_BTVN.Services
             {
                 int donHangID = Convert.ToInt32(DonHangID);
                 int sachID = Convert.ToInt32(SachID);
+                //Check xem co ID don hang hoac ID sach tuong ung khong
                 if (_eBookDBContext.orders.ToList().FindIndex(o => o.OrderID == donHangID) >= 0 && _eBookDBContext.books.ToList().FindIndex(b => b.BookID == sachID) >= 0) {
                     int indexSach = _eBookDBContext.books.ToList().FindIndex(b => b.BookID == sachID);
                     OrderDetails orderDetail = new OrderDetails(donHangID, sachID, 1, _eBookDBContext.books.ToList()[indexSach].Gia);
                     _eBookDBContext.orderDetails.ToList().Add(orderDetail);
                     Console.WriteLine("Them chi tiet don hang thanh cong!");
                     return _eBookDBContext.SaveChanges();
+                } else
+                {
+                    Console.WriteLine("Khong co ID don hang/ID sach tuong ung.");
+                    return _eBookDBContext.SaveChanges();
                 }
-                return _eBookDBContext.SaveChanges();
             }
             else
             {

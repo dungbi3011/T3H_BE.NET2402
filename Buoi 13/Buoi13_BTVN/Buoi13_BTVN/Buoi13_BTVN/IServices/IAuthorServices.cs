@@ -9,7 +9,7 @@ namespace Buoi13_BTVN.IServices
 {
     public interface IAuthorServices
     {
-        Task<List<Authors>> GetAuthors();
+        Task GetAuthors();
         Task<int> Author_Insert();
         Task<Authors> Author_Find(string ten);
         Task Author_Delete();

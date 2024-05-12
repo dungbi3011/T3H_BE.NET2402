@@ -14,9 +14,18 @@ namespace Buoi13_BTVN.Services
     {
         EBookDBContext _eBookDBContext = new EBookDBContext();
 
-        public async Task<List<Books>> GetBooks()
+        public async Task GetBooks()
         {
-            return _eBookDBContext.books.ToList();
+            var list = _eBookDBContext.books.ToList();
+            foreach (var book in list)
+            {
+                Console.WriteLine("BookID: " + book.BookID);
+                Console.WriteLine("Ten: " + book.Ten);
+                Console.WriteLine("ID Tac gia: " + book.TacGiaID);
+                Console.WriteLine("The loai: " + book.TheLoai);
+                Console.WriteLine("Gia: " + book.Gia);
+                Console.WriteLine("So luong: " + book.SoLuong);
+            }
         }
 
         public async Task<int> Book_Insert ()
@@ -35,12 +44,20 @@ namespace Buoi13_BTVN.Services
             if (ValidationData.KiemTraInputChu(ten) && ValidationData.KiemTraInputSo(TacGiaID) && ValidationData.KiemTraInputChu(theLoai) && ValidationData.KiemTraInputGia(Gia) && ValidationData.KiemTraInputSo(SoLuong) )
             {
                 int tacGiaID = Convert.ToInt32(TacGiaID);
-                long gia = Convert.ToInt64(Gia);
-                int soLuong = Convert.ToInt32(SoLuong);
-                Books book = new Books(ten, tacGiaID, theLoai, gia, soLuong);
-                _eBookDBContext.books.Add(book);
-                Console.WriteLine("Them sach thanh cong!");
-                return _eBookDBContext.SaveChanges();
+                //Check xem co ID tac gia tuong ung khong
+                if (_eBookDBContext.authors.ToList().FindIndex(a => a.AuthorID == tacGiaID) >= 0)
+                {
+                    long gia = Convert.ToInt64(Gia);
+                    int soLuong = Convert.ToInt32(SoLuong);
+                    Books book = new Books(ten, tacGiaID, theLoai, gia, soLuong);
+                    _eBookDBContext.books.Add(book);
+                    Console.WriteLine("Them sach thanh cong!");
+                    return _eBookDBContext.SaveChanges();
+                } else
+                {
+                    Console.WriteLine("Khong co ID tac gia tuong ung!");
+                    return _eBookDBContext.SaveChanges();
+                }
             } else
             {
                 Console.WriteLine("Xay ra loi khi nhap thong tin sach. Vui long thu lai.");
