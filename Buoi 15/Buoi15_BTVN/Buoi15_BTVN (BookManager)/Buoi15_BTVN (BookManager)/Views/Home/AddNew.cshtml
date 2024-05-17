@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Adding Books";
+}
+
+<main aria-labelledby="title">
+    <h2 id="title">@ViewBag.Title</h2>
+    <br />
+    <p>@ViewBag.Message</p>
+    <form action="/home/AddNew" method="post">
+        <label for="bookname">Name: </label>
+        <input type="text" name="bookname" value="@Request["bookname"]" />
+        <input type="submit" name="submit" />
+    </form>
+
+    <div>
+        @if (!IsPost)
+        {
+            <p>@Html.Raw("Không được để tên sách trống.")</p>
+        }
+        else
+        {
+            Session["AddBook"] = Request["bookname"];
+        }
+    </div>
+</main>
