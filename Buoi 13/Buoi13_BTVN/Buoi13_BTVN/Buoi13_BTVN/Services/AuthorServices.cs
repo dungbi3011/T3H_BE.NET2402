@@ -16,13 +16,8 @@ namespace Buoi13_BTVN.Services
 
         public async Task GetAuthors()
         {
-            var list = _eBookDBContext.authors.ToList();
-            foreach (var author in list)
-            {
-                Console.WriteLine("ID Tac gia: " + author.AuthorID);
-                Console.WriteLine("Ten: " + author.Ten);
-                Console.WriteLine("Quoc Gia: " + author.QuocGia);
-            }
+            
+
         }
 
         public async Task<int> Author_Insert()

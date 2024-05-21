@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|solutionrelative:buoi14_btvn\\dto\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|d:\\t3h studying\\buoi 14\\buoi14_btvn\\buoi14_btvn\\buoi14_btvn\\commonlib\\returncodetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|solutionrelative:buoi14_btvn\\commonlib\\returncodetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03674A3F-1879-4589-B59B-EBF9F0BBF9D6}|SanPhamConsole.NetCore\\SanPhamConsole.NetCore.csproj|d:\\t3h studying\\buoi 14\\buoi14_btvn\\buoi14_btvn\\sanphamconsole.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03674A3F-1879-4589-B59B-EBF9F0BBF9D6}|SanPhamConsole.NetCore\\SanPhamConsole.NetCore.csproj|solutionrelative:sanphamconsole.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|d:\\t3h studying\\buoi 14\\buoi14_btvn\\buoi14_btvn\\buoi14_btvn\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|solutionrelative:buoi14_btvn\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|d:\\t3h studying\\buoi 14\\buoi14_btvn\\buoi14_btvn\\buoi14_btvn\\commonlib\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|d:\\t3h studying\\buoi 14\\buoi14_btvn\\buoi14_btvn\\buoi14_btvn\\services\\sanphamservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|solutionrelative:buoi14_btvn\\services\\sanphamservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|d:\\t3h studying\\buoi 14\\buoi14_btvn\\buoi14_btvn\\buoi14_btvn\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|solutionrelative:buoi14_btvn\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|d:\\t3h studying\\buoi 14\\buoi14_btvn\\buoi14_btvn\\buoi14_btvn\\commonlib\\returncodetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69E2ED42-D7E2-46A8-AB43-750538460779}|Buoi14_BTVN\\Buoi14_BTVN.csproj|solutionrelative:buoi14_btvn\\commonlib\\returncodetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ValidationData.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 14\\Buoi14_BTVN\\Buoi14_BTVN\\Buoi14_BTVN\\CommonLib\\ValidationData.cs",
               "RelativeDocumentMoniker": "Buoi14_BTVN\\CommonLib\\ValidationData.cs",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 14\\Buoi14_BTVN\\Buoi14_BTVN\\SanPhamConsole.NetCore\\Program.cs",
               "RelativeDocumentMoniker": "SanPhamConsole.NetCore\\Program.cs",
@@ -62,11 +62,12 @@
               "RelativeToolTip": "SanPhamConsole.NetCore\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAADsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T04:13:28.421Z"
+              "WhenOpened": "2024-05-14T04:13:28.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ReturnCodeType.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 14\\Buoi14_BTVN\\Buoi14_BTVN\\Buoi14_BTVN\\CommonLib\\ReturnCodeType.cs",
               "RelativeDocumentMoniker": "Buoi14_BTVN\\CommonLib\\ReturnCodeType.cs",
@@ -74,11 +75,12 @@
               "RelativeToolTip": "Buoi14_BTVN\\CommonLib\\ReturnCodeType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:57:25.592Z"
+              "WhenOpened": "2024-05-14T03:57:25.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 14\\Buoi14_BTVN\\Buoi14_BTVN\\Buoi14_BTVN\\DTO\\Category.cs",
               "RelativeDocumentMoniker": "Buoi14_BTVN\\DTO\\Category.cs",
@@ -86,7 +88,8 @@
               "RelativeToolTip": "Buoi14_BTVN\\DTO\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:32:43.834Z"
+              "WhenOpened": "2024-05-13T14:32:43.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SanPham.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 14\\Buoi14_BTVN\\Buoi14_BTVN\\Buoi14_BTVN\\DTO\\SanPham.cs",
               "RelativeDocumentMoniker": "Buoi14_BTVN\\DTO\\SanPham.cs",
@@ -115,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SanPhamServices.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 14\\Buoi14_BTVN\\Buoi14_BTVN\\Buoi14_BTVN\\Services\\SanPhamServices.cs",
               "RelativeDocumentMoniker": "Buoi14_BTVN\\Services\\SanPhamServices.cs",

@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Sua Hoc Sinh trong danh sach";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<form action="/home/Sua" method="post">
+    <label for="vitri">ID Hoc Sinh can sua: </label>
+    <input type="int" name="vitri" value=Request["vitri"] />
+    <label for="ten">Ten hoc sinh: </label>
+    <input type="text" name="ten" value=Request["ten"] />
+    <label for="ngaysinh">Ngay sinh: </label>
+    <input type="text" name="ngaysinh" value=Request["ngaysinh"] />
+    <label for="diachi">Dia chi: </label>
+    <input type="text" name="diachi" value=Request["diachi"] />
+</form>

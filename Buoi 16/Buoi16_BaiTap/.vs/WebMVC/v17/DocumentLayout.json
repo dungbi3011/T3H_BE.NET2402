@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|d:\\t3h studying\\buoi 16\\buoi16_baitap\\webmvc\\webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|d:\\t3h studying\\buoi 16\\buoi16_baitap\\webmvc\\webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|d:\\t3h studying\\buoi 16\\buoi16_baitap\\webmvc\\webmvc\\models\\bookmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\bookmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T3H Studying\\Buoi 15\\Buoi15_BaiTap\\Buoi15_BaiTap\\Buoi15_BaiTap\\Models\\BookModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|d:\\t3h studying\\buoi 16\\buoi16_baitap\\webmvc\\webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|d:\\t3h studying\\buoi 16\\buoi16_baitap\\webmvc\\webmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|d:\\t3h studying\\buoi 16\\buoi16_baitap\\webmvc\\webmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98921E4D-DFF9-405B-A003-8F5B570F8EAC}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:41:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:31:00.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookModels.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 15\\Buoi15_BaiTap\\Buoi15_BaiTap\\Buoi15_BaiTap\\Models\\BookModels.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Buoi 15\\Buoi15_BaiTap\\Buoi15_BaiTap\\Buoi15_BaiTap\\Models\\BookModels.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 15\\Buoi15_BaiTap\\Buoi15_BaiTap\\Buoi15_BaiTap\\Models\\BookModels.cs",
+              "RelativeToolTip": "..\\..\\..\\Buoi 15\\Buoi15_BaiTap\\Buoi15_BaiTap\\Buoi15_BaiTap\\Models\\BookModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:27:24.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookModels.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\Models\\BookModels.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\BookModels.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\Models\\BookModels.cs",
+              "RelativeToolTip": "WebMVC\\Models\\BookModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:26:56.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "WebMVC\\appsettings.json",
+              "ToolTip": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\appsettings.json",
+              "RelativeToolTip": "WebMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T14:16:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebMVC\\appsettings.Development.json",
+              "ToolTip": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\appsettings.Development.json",
+              "RelativeToolTip": "WebMVC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T14:11:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebMVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\T3H Studying\\Buoi 16\\Buoi16_BaiTap\\WebMVC\\WebMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebMVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T14:05:43.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

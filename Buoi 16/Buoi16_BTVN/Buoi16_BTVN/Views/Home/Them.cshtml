@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Them vao Danh sach Hoc Sinh";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<form action="/home/Them" method="post">
+    <label for="ten">Ten hoc sinh: </label>
+    <input type="text" name="ten" value=Request["ten"] />
+    <label for="ngaysinh">Ngay sinh: </label>
+    <input type="text" name="ngaysinh" value=Request["ngaysinh"] />
+    <label for="diachi">Dia chi: </label>
+    <input type="text" name="diachi" value=Request["diachi"] />
+</form>
+
+
+

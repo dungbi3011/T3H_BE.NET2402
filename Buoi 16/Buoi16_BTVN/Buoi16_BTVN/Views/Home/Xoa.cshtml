@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Xoa Hoc Sinh khoi danh sach";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form action="/home/Xoa" method="post">
+    <label for="ten">Ten hoc sinh: </label>
+    <input type="text" name="ten" value=Request["ten"] />
+    <input type="submit" name="submit" />
+</form>

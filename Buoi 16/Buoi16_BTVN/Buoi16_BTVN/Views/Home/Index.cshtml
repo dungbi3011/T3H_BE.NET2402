@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>StudentID</th>
+            <th>Ten</th>
+            <th>Ngay Sinh</th>
+            <th>Dia Chi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count() > 0)
+        {
+            foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.StudentID</td>
+                    <td>@student.Ten</td>
+                    <td>@student.NgaySinh</td>
+                    <td>@student.DiaChi</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
