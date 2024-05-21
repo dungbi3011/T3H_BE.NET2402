@@ -4,7 +4,7 @@ namespace Buoi16_BTVN.IServices
 {
     public interface IStudentServices
     {
-        Task GetAuthors();
+        Task GetStudents();
         Task<int> Student_Insert();
         Task<Student> Student_Find(string ten);
         Task Student_Delete();
