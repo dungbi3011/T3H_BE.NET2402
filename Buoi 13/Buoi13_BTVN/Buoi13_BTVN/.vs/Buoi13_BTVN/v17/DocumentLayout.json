@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6E89E1E-5373-443E-9B3D-1A762B5F1DF2}|BookConsoleAppNetCore\\BookConsoleAppNetCore.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\bookconsoleappnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E89E1E-5373-443E-9B3D-1A762B5F1DF2}|BookConsoleAppNetCore\\BookConsoleAppNetCore.csproj|solutionrelative:bookconsoleappnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\services\\authorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\services\\authorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\iservices\\iauthorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\iservices\\iauthorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\validation\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\validation\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\dbcontext\\ebookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\dbcontext\\ebookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\dto\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\dto\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\dto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\dto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,32 +39,8 @@
       "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\services\\authorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\services\\authorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\iservices\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\iservices\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\dto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\dto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E89E1E-5373-443E-9B3D-1A762B5F1DF2}|BookConsoleAppNetCore\\BookConsoleAppNetCore.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\bookconsoleappnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E89E1E-5373-443E-9B3D-1A762B5F1DF2}|BookConsoleAppNetCore\\BookConsoleAppNetCore.csproj|solutionrelative:bookconsoleappnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\validation\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\validation\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\dto\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\dto\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\iservices\\iauthorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|solutionrelative:buoi13_btvn\\iservices\\iauthorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEF1E38A-936A-496B-96A5-FB5A1588737B}|Buoi13_BTVN\\Buoi13_BTVN.csproj|d:\\t3h studying\\buoi 13\\buoi13_btvn\\buoi13_btvn\\buoi13_btvn\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BookServices.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\Services\\BookServices.cs",
               "RelativeDocumentMoniker": "Buoi13_BTVN\\Services\\BookServices.cs",
@@ -117,37 +117,37 @@
               "RelativeToolTip": "Buoi13_BTVN\\Services\\BookServices.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:34:28.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:34:28.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ValidationData.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\Validation\\ValidationData.cs",
               "RelativeDocumentMoniker": "Buoi13_BTVN\\Validation\\ValidationData.cs",
               "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\Validation\\ValidationData.cs",
               "RelativeToolTip": "Buoi13_BTVN\\Validation\\ValidationData.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAuAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:32:48.429Z"
+              "WhenOpened": "2024-05-11T14:32:48.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AuthorServices.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\Services\\AuthorServices.cs",
               "RelativeDocumentMoniker": "Buoi13_BTVN\\Services\\AuthorServices.cs",
               "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\Services\\AuthorServices.cs",
               "RelativeToolTip": "Buoi13_BTVN\\Services\\AuthorServices.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAMAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwBIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T14:30:36.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "IBookServices.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\IServices\\IBookServices.cs",
               "RelativeDocumentMoniker": "Buoi13_BTVN\\IServices\\IBookServices.cs",
@@ -155,32 +155,33 @@
               "RelativeToolTip": "Buoi13_BTVN\\IServices\\IBookServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:30:07.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:30:07.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Authors.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\DTO\\Authors.cs",
               "RelativeDocumentMoniker": "Buoi13_BTVN\\DTO\\Authors.cs",
               "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\DTO\\Authors.cs",
               "RelativeToolTip": "Buoi13_BTVN\\DTO\\Authors.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:29:45.955Z"
+              "WhenOpened": "2024-05-11T14:29:45.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "IAuthorServices.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\IServices\\IAuthorServices.cs",
               "RelativeDocumentMoniker": "Buoi13_BTVN\\IServices\\IAuthorServices.cs",
               "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\IServices\\IAuthorServices.cs",
               "RelativeToolTip": "Buoi13_BTVN\\IServices\\IAuthorServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:29:39.631Z"
+              "WhenOpened": "2024-05-11T14:29:39.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -196,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "CustomerServices.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\Services\\CustomerServices.cs",
               "RelativeDocumentMoniker": "Buoi13_BTVN\\Services\\CustomerServices.cs",
@@ -204,8 +205,7 @@
               "RelativeToolTip": "Buoi13_BTVN\\Services\\CustomerServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:15:37.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:15:37.991Z"
             },
             {
               "$type": "Document",
@@ -269,33 +269,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\BookConsoleAppNetCore\\Program.cs",
               "RelativeDocumentMoniker": "BookConsoleAppNetCore\\Program.cs",
               "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\BookConsoleAppNetCore\\Program.cs",
               "RelativeToolTip": "BookConsoleAppNetCore\\Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T10:13:46.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EBookDBContext.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\DBContext\\EBookDBContext.cs",
               "RelativeDocumentMoniker": "Buoi13_BTVN\\DBContext\\EBookDBContext.cs",
               "ToolTip": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\DBContext\\EBookDBContext.cs",
               "RelativeToolTip": "Buoi13_BTVN\\DBContext\\EBookDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T09:59:52.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Books.cs",
               "DocumentMoniker": "D:\\T3H Studying\\Buoi 13\\Buoi13_BTVN\\Buoi13_BTVN\\Buoi13_BTVN\\DTO\\Books.cs",
               "RelativeDocumentMoniker": "Buoi13_BTVN\\DTO\\Books.cs",
@@ -303,8 +303,7 @@
               "RelativeToolTip": "Buoi13_BTVN\\DTO\\Books.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:23:43.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T09:23:43.865Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\bin\Debug\net8.0\Module2_BTVN.deps.json
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\bin\Debug\net8.0\Module2_BTVN.runtimeconfig.json
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\bin\Debug\net8.0\Module2_BTVN.dll
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\bin\Debug\net8.0\Module2_BTVN.pdb
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\Module2_BTVN.csproj.AssemblyReference.cache
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\Module2_BTVN.GeneratedMSBuildEditorConfig.editorconfig
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\Module2_BTVN.AssemblyInfoInputs.cache
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\Module2_BTVN.AssemblyInfo.cs
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\Module2_BTVN.csproj.CoreCompileInputs.cache
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\Module2_BTVN.sourcelink.json
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\Module2_BTVN.dll
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\refint\Module2_BTVN.dll
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\Module2_BTVN.pdb
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\Module2_BTVN.genruntimeconfig.cache
+D:\T3H Studying\Module2_BTVN\Module2_BTVN\obj\Debug\net8.0\ref\Module2_BTVN.dll

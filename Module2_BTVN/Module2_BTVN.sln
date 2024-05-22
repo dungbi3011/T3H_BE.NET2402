@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module2_BTVN", "Module2_BTVN\Module2_BTVN.csproj", "{DDE6D437-9A6C-48D8-A77A-3F9A895CDBA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TailorConsoleAppNetCore", "TailorConsoleAppNetCore\TailorConsoleAppNetCore.csproj", "{908F1FCD-B938-4D31-A6B5-466CA4E73002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE6D437-9A6C-48D8-A77A-3F9A895CDBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE6D437-9A6C-48D8-A77A-3F9A895CDBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE6D437-9A6C-48D8-A77A-3F9A895CDBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE6D437-9A6C-48D8-A77A-3F9A895CDBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{908F1FCD-B938-4D31-A6B5-466CA4E73002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908F1FCD-B938-4D31-A6B5-466CA4E73002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908F1FCD-B938-4D31-A6B5-466CA4E73002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908F1FCD-B938-4D31-A6B5-466CA4E73002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D3D4C1B-47B7-451A-8236-2725E9229731}
+	EndGlobalSection
+EndGlobal
