@@ -29,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DDE6D437-9A6C-48D8-A77A-3F9A895CDBA5}|Module2_BTVN\\Module2_BTVN.csproj|d:\\t3h studying\\module2_btvn\\module2_btvn\\dbcontext\\tailordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDE6D437-9A6C-48D8-A77A-3F9A895CDBA5}|Module2_BTVN\\Module2_BTVN.csproj|solutionrelative:module2_btvn\\dbcontext\\tailordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDE6D437-9A6C-48D8-A77A-3F9A895CDBA5}|Module2_BTVN\\Module2_BTVN.csproj|d:\\t3h studying\\module2_btvn\\module2_btvn\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDE6D437-9A6C-48D8-A77A-3F9A895CDBA5}|Module2_BTVN\\Module2_BTVN.csproj|solutionrelative:module2_btvn\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,8 +51,7 @@
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAHMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T17:49:03.92Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -81,8 +76,7 @@
               "RelativeToolTip": "Module2_BTVN\\DTO\\Tailors.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T04:27:51.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T04:27:51.325Z"
             },
             {
               "$type": "Document",
@@ -94,8 +88,7 @@
               "RelativeToolTip": "Module2_BTVN\\CommonLibs\\ReturnCodeType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:05:14.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T09:05:14.218Z"
             },
             {
               "$type": "Document",
@@ -107,8 +100,7 @@
               "RelativeToolTip": "Module2_BTVN\\CommonLibs\\ReturnData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T08:09:10.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T08:09:10.97Z"
             },
             {
               "$type": "Document",
@@ -120,8 +112,7 @@
               "RelativeToolTip": "Module2_BTVN\\IServices\\ITailorServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T08:07:19.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T08:07:19.828Z"
             },
             {
               "$type": "Document",
@@ -133,20 +124,7 @@
               "RelativeToolTip": "Module2_BTVN\\DBContext\\TailorDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T04:25:36.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\T3H Studying\\Module2_BTVN\\Module2_BTVN\\Class1.cs",
-              "RelativeDocumentMoniker": "Module2_BTVN\\Class1.cs",
-              "ToolTip": "D:\\T3H Studying\\Module2_BTVN\\Module2_BTVN\\Class1.cs",
-              "RelativeToolTip": "Module2_BTVN\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T03:56:14.338Z"
+              "WhenOpened": "2024-05-22T04:25:36.025Z"
             }
           ]
         }
