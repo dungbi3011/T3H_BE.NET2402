@@ -1,0 +1,22 @@
+﻿@model List<Buoi17_BTVN.Models.BookModel>
+<p>Day la du lieu duoc goi tu AJAX</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>BookID</th>
+            <th>BookName</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.BookID</td>
+                    <td>@item.BookName</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Them San Pham";
+}
+
+@model List<Buoi17_BTVN.Models.BookModel>
+<div class="text-center">
+    <h1 class="display-4">Thong tin san pham: </h1>
+</div>
+
+<div class="form-group">
+    <label for="email">Ten san pham: </label>
+    <input type="text" class="form-control" id="tenSanPham"><br /><br />
+    <label for="email">Loai san pham: </label>
+    <select class="form-control" id="loaiSanPham">
+        <option value="">---</option>
+        <option value="Laptop">Laptop</option>
+        <option value="Smartphone">Smartphone</option>
+    </select><br /><br />
+    <label for="email">Bien the: </label>
+    <input type="text" class="form-control" id="bienTheSanPham"><br /><br />
+    <label for="email">Gia san pham: </label>
+    <input type="text" class="form-control" id="giaSanPham"><br /><br />
+    <button type="submit" id="btnSave" class="btn btn-success"></button>
+</div>
+
+<div id="Test_PartialView">
+</div>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            LoadData();
+
+            $("btnSave").click(function () {
+                AddData();
+            });
+        });
+
+        function AddData() {
+            
+            var ten = $(#tenSanPham).val();
+            if (ten == null || ten == "") {
+                alert("Ten san pham khong duoc de trong.");
+                return;
+            }
+
+            var param = {
+                ten;
+            };
+
+            $.ajax({
+                type: "POST",
+                url: "/Home/DemoLoadAjaxView",
+                data: {},
+                async: true,
+                dataType: "html",
+                //dataType: "json",
+                success: function (data) {
+                    $("#Test_PartialView").html("");
+                    $("#Test_PartialView").html(data);
+                }
+            });
+        }
+
+
+        function LoadData() {
+
+            var param = {
+
+            };
+
+            $.ajax({
+                type: "POST",
+                url: "/Home/DemoLoadAjaxView",
+                data: {},
+                async: true,
+                dataType: "html",
+                //dataType: "json",
+                success: function (data) {
+                    $("#Test_PartialView").html("");
+                    $("#Test_PartialView").html(data);
+                }
+            });
+        }
+    </script>
+}

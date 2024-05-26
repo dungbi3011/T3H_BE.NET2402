@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<Buoi17_BTVN.Models.BookModel> 
+<div class="text-center">
+    <h1 class="display-4">Welcome111</h1>
+</div>
+<div id ="Test_PartialView">
+
+</div>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            LoadData();
+        })
+
+        
+        function LoadData() {
+
+            var param = {
+
+            };
+
+            $.ajax({
+                type: "POST",
+                url: "/Home/DemoLoadAjaxView",
+                data: {},
+                async: true,
+                dataType: "html",
+                //dataType: "json",
+                success: function(data) {
+                    $("#Test_PartialView").html("");
+                    $("#Test_PartialView").html(data);
+                }
+            });    
+        }
+    </script>
+}

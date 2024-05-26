@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\demoloadajaxview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\demoloadajaxview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Buoi17_BTVN\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:25:32.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Models\\SanPham.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPham.cs",
+              "RelativeToolTip": "Buoi17_BTVN\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:25:16.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:36:32.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoLoadAjaxView.cshtml",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
+              "RelativeToolTip": "Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:07:37.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:03:57.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Them.cshtml",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Them.cshtml",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Home\\Them.cshtml",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Them.cshtml",
+              "RelativeToolTip": "Buoi17_BTVN\\Views\\Home\\Them.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:03:54.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Buoi17_BTVN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:29:56.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Buoi17_BTVN\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:25:31.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Models\\BookModel.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\BookModel.cs",
+              "RelativeToolTip": "Buoi17_BTVN\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:26:27.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Program.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Program.cs",
+              "RelativeToolTip": "Buoi17_BTVN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:23:33.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
