@@ -1,45 +1,96 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\",
+  "WorkspaceRootPath": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\demoloadajaxview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\demoloadajaxview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\demoloadajaxview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\iservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\iservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\iservices\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\iservices\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\dto\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\dto\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\dto\\sanphamupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\dto\\sanphamupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\sanphaminsertresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\sanphaminsertresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\models\\sanphaminsertrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\models\\sanphaminsertrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\dto\\bienthesanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\dto\\bienthesanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\dto\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\dto\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\dbcontext\\sanphamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\dbcontext\\sanphamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T3H Studying\\Buoi 16\\Buoi16_BTVN\\Buoi16_BTVN\\Services\\StudentServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\console_netcore\\commonlibs\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78124569-A49C-43D1-8168-EC63CFE1AA39}|Console_NetCore\\Console_NetCore.csproj|solutionrelative:console_netcore\\commonlibs\\validationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\home\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\home\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|d:\\t3h\\t3h studying\\buoi 17\\buoi17_btvn\\buoi17_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C722D65-5A62-461A-A519-6E4F7B96477C}|Buoi17_BTVN\\Buoi17_BTVN.csproj|solutionrelative:buoi17_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,15 +101,195 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\Orders.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\DTO\\Orders.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\Orders.cs",
+              "RelativeToolTip": "Console_NetCore\\DTO\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:32:05.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderServices.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\IServices\\IOrderServices.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\IServices\\IOrderServices.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\IServices\\IOrderServices.cs",
+              "RelativeToolTip": "Console_NetCore\\IServices\\IOrderServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:31:14.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\Services\\OrderServices.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\Services\\OrderServices.cs",
+              "RelativeToolTip": "Console_NetCore\\Services\\OrderServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:30:42.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPhamInsertResponse.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPhamInsertResponse.cs",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Models\\SanPhamInsertResponse.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPhamInsertResponse.cs",
+              "RelativeToolTip": "Buoi17_BTVN\\Models\\SanPhamInsertResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:25:37.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SanPhamInsertRequestData.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPhamInsertRequestData.cs",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Models\\SanPhamInsertRequestData.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPhamInsertRequestData.cs",
+              "RelativeToolTip": "Buoi17_BTVN\\Models\\SanPhamInsertRequestData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:29:22.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "D:\\T3H Studying\\Buoi 16\\Buoi16_BTVN\\Buoi16_BTVN\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\T3H Studying\\Buoi 16\\Buoi16_BTVN\\Buoi16_BTVN\\Services\\StudentServices.cs",
+              "ToolTip": "D:\\T3H Studying\\Buoi 16\\Buoi16_BTVN\\Buoi16_BTVN\\Services\\StudentServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\T3H Studying\\Buoi 16\\Buoi16_BTVN\\Buoi16_BTVN\\Services\\StudentServices.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:15:01.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidationData.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\CommonLibs\\ValidationData.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\CommonLibs\\ValidationData.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\CommonLibs\\ValidationData.cs",
+              "RelativeToolTip": "Console_NetCore\\CommonLibs\\ValidationData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:44:25.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReturnData.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\ReturnData.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\DTO\\ReturnData.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\ReturnData.cs",
+              "RelativeToolTip": "Console_NetCore\\DTO\\ReturnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:42:00.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\Services\\ProductServices.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\Services\\ProductServices.cs",
+              "RelativeToolTip": "Console_NetCore\\Services\\ProductServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAJkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:33:36.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\IServices\\IProductServices.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\IServices\\IProductServices.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\IServices\\IProductServices.cs",
+              "RelativeToolTip": "Console_NetCore\\IServices\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:33:09.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPhamUpdate.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\SanPhamUpdate.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\DTO\\SanPhamUpdate.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\SanPhamUpdate.cs",
+              "RelativeToolTip": "Console_NetCore\\DTO\\SanPhamUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:30:16.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BienTheSanPham.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\BienTheSanPham.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\DTO\\BienTheSanPham.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\BienTheSanPham.cs",
+              "RelativeToolTip": "Console_NetCore\\DTO\\BienTheSanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:25:59.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\SanPham.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\DTO\\SanPham.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DTO\\SanPham.cs",
+              "RelativeToolTip": "Console_NetCore\\DTO\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:25:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SanPhamDBContext.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DBContext\\SanPhamDBContext.cs",
+              "RelativeDocumentMoniker": "Console_NetCore\\DBContext\\SanPhamDBContext.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Console_NetCore\\DBContext\\SanPhamDBContext.cs",
+              "RelativeToolTip": "Console_NetCore\\DBContext\\SanPhamDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:23:58.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Buoi17_BTVN\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Buoi17_BTVN\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,120 +298,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SanPham.cs",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPham.cs",
-              "RelativeDocumentMoniker": "Buoi17_BTVN\\Models\\SanPham.cs",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPham.cs",
-              "RelativeToolTip": "Buoi17_BTVN\\Models\\SanPham.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T08:25:16.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Buoi17_BTVN\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAABsAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBJwBwAAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T15:36:32.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T15:36:32.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "DemoLoadAjaxView.cshtml",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
               "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
               "RelativeToolTip": "Buoi17_BTVN\\Views\\Home\\DemoLoadAjaxView.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T15:07:37.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Buoi17_BTVN\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T14:03:57.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 20,
               "Title": "Them.cshtml",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Them.cshtml",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Them.cshtml",
               "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Home\\Them.cshtml",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Them.cshtml",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Them.cshtml",
               "RelativeToolTip": "Buoi17_BTVN\\Views\\Home\\Them.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T14:03:54.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Buoi17_BTVN\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Buoi17_BTVN\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T13:29:56.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Buoi17_BTVN\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Buoi17_BTVN\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowBsAAAAgAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAcwHsAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T13:25:31.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "Buoi17_BTVN\\Models\\BookModel.cs",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\BookModel.cs",
-              "RelativeToolTip": "Buoi17_BTVN\\Models\\BookModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "DocumentIndex": 10,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Buoi17_BTVN\\Models\\SanPham.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Models\\SanPham.cs",
+              "RelativeToolTip": "Buoi17_BTVN\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T13:26:27.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Program.cs",
+              "DocumentMoniker": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Program.cs",
               "RelativeDocumentMoniker": "Buoi17_BTVN\\Program.cs",
-              "ToolTip": "D:\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Program.cs",
+              "ToolTip": "D:\\T3H\\T3H Studying\\Buoi 17\\Buoi17_BTVN\\Buoi17_BTVN\\Program.cs",
               "RelativeToolTip": "Buoi17_BTVN\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T13:23:33.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T13:23:33.967Z"
             }
           ]
         }

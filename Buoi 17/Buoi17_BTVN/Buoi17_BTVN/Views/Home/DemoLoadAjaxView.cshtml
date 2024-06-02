@@ -1,4 +1,4 @@
-﻿@model List<Buoi17_BTVN.Models.BookModel>
+﻿@model List<Buoi17_BTVN.Models.SanPham>
 <p>Day la du lieu duoc goi tu AJAX</p>
 <table class="table">
     <thead>
@@ -13,8 +13,8 @@
             foreach (var item in Model)
             {
                 <tr>
-                    <td>@item.BookID</td>
-                    <td>@item.BookName</td>
+                    <td>@item.SanPhamID</td>
+                    <td>@item.TenSanPham</td>
                 </tr>
             }
         }

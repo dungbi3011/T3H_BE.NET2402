@@ -1,4 +1,6 @@
 using Buoi17_BTVN.Models;
+using Console_NetCore.CommonLibs;
+using Console_NetCore.DTO;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -15,7 +17,7 @@ namespace Buoi17_BTVN.Controllers
 
         public ActionResult Index(int? id)
         {
-            var model = new List<BookModel>();
+            var model = new List<Models.SanPham>();
 
             return View(model);
         }
@@ -25,36 +27,120 @@ namespace Buoi17_BTVN.Controllers
             return View();
         }
 
-        public ActionResult Them()
+        [HttpPost]
+        public async Task<ActionResult> DemoLoadAjaxView()
         {
-            var model = new List<BookModel>();
-                
-            //dua du lieu vao model
-            for (int i = 0; i < 5; i++)
+            var model = new List<Console_NetCore.DTO.SanPham>();
+            try
             {
-                model.Add(new BookModel
-                {
-                    BookID = i + 1,
-                    BookName = "Sach so " + (i + 1)
-                });
+                model = await new Console_NetCore.Services.ProductServices().GetList();
             }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+
             return PartialView(model);
         }
 
-        public ActionResult DemoLoadAjaxView()
+        public async Task<JsonResult> SaveProduct(SanPhamUpdate requestData)
         {
-            var model = new List<BookModel>();
-
-            //dua du lieu vao model
-            for (int i = 0; i < 5; i++)
+            var model = new SanPhamInsertResponse();
+            try
             {
-                model.Add(new BookModel
+                if (requestData == null
+                    || string.IsNullOrEmpty(requestData.TenSanPham))
                 {
-                    BookID = i + 1,
-                    BookName = "Sach so " + (i + 1)
-                });
+                    model.ResponseCode = -1;
+                    model.ResponseMessage = "D? li?u không ???c tr?ng";
+                    return Json(model);
+                }
+
+                var rs = await new Console_NetCore.Services.ProductServices().Product_Insert(requestData);
+
+
+                model.ResponseCode = rs.ReturnCode;
+                model.ResponseMessage = rs.ReturnMsg;
+                return Json(model);
             }
-            return PartialView(model);
+            catch (Exception ex)
+            {
+
+                throw;
+            }
+
+            return Json(model);
+        }
+
+
+        public async Task<JsonResult> Product_Delete(SanPhamXoa requestData)
+        {
+            var model = new SanPhamDeleteResponse();
+            try
+            {
+                if (requestData == null || requestData.SanPhamID <= 0)
+                {
+                    model.ResponseCode = -1;
+                    model.ResponseMessage = "Id s?n ph?m không h?p l?";
+                    return Json(model);
+                }
+
+                var rs = await new Console_NetCore.Services.ProductServices().Product_Remove(requestData);
+
+                if (rs.ReturnCode <= 0)
+                {
+                    model.ResponseCode = rs.ReturnCode;
+                    model.ResponseMessage = rs.ReturnMsg;
+                    return Json(model);
+                }
+
+                model.ResponseCode = 1;
+                model.ResponseMessage = "Xóa s?n ph?m thành công!";
+                return Json(model);
+            }
+            catch (Exception ex)
+            {
+
+                model.ResponseCode = -969;
+                model.ResponseMessage = "H? th?ng ?ang b?n!";
+                return Json(model);
+            }
+        }
+
+        public async Task<JsonResult> Product_Buy(OrdersCreateRequestData requestData)
+        {
+
+            var model = new SanPhamDeleteResponse();
+            try
+            {
+                if (requestData == null || requestData.Gia <= 0)
+                {
+                    model.ResponseCode = -1;
+                    model.ResponseMessage = "Id s?n ph?m không h?p l?";
+                    return Json(model);
+                }
+
+                var rs = await new Console_NetCore.Services.OrderServices().Order_Create(requestData);
+
+                if (rs.ReturnCode <= 0)
+                {
+                    model.ResponseCode = rs.ReturnCode;
+                    model.ResponseMessage = rs.ReturnMsg;
+                    return Json(model);
+                }
+
+                model.ResponseCode = 1;
+                model.ResponseMessage = "Mua s?n ph?m thành công!";
+                return Json(model);
+            }
+            catch (Exception ex)
+            {
+
+                model.ResponseCode = -969;
+                model.ResponseMessage = "H? th?ng ?ang b?n!";
+                return Json(model);
+            }
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

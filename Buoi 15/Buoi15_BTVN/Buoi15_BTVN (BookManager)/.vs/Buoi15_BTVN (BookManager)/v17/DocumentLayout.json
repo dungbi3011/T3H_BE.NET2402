@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\T3H Studying\\Buoi 15\\Buoi15_BTVN\\Buoi15_BTVN (BookManager)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A929F92-1D38-45C0-9F8B-921A63FB5194}|Buoi15_BTVN (BookManager)\\Buoi15_BTVN).csproj|D:\\T3H Studying\\Buoi 15\\Buoi15_BTVN\\Buoi15_BTVN (BookManager)\\buoi15_btvn (bookmanager)\\views\\home\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7A929F92-1D38-45C0-9F8B-921A63FB5194}|Buoi15_BTVN (BookManager)\\Buoi15_BTVN).csproj|d:\\t3h studying\\buoi 15\\buoi15_btvn\\buoi15_btvn (bookmanager)\\buoi15_btvn (bookmanager)\\views\\home\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7A929F92-1D38-45C0-9F8B-921A63FB5194}|Buoi15_BTVN (BookManager)\\Buoi15_BTVN).csproj|solutionrelative:buoi15_btvn (bookmanager)\\views\\home\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A929F92-1D38-45C0-9F8B-921A63FB5194}|Buoi15_BTVN (BookManager)\\Buoi15_BTVN).csproj|d:\\t3h studying\\buoi 15\\buoi15_btvn\\buoi15_btvn (bookmanager)\\buoi15_btvn (bookmanager)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A929F92-1D38-45C0-9F8B-921A63FB5194}|Buoi15_BTVN (BookManager)\\Buoi15_BTVN).csproj|D:\\T3H Studying\\Buoi 15\\Buoi15_BTVN\\Buoi15_BTVN (BookManager)\\buoi15_btvn (bookmanager)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A929F92-1D38-45C0-9F8B-921A63FB5194}|Buoi15_BTVN (BookManager)\\Buoi15_BTVN).csproj|solutionrelative:buoi15_btvn (bookmanager)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Buoi15_BTVN (BookManager)\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T10:07:44.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T10:07:44.149Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Buoi15_BTVN (BookManager)\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T09:53:36.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T09:53:36.016Z"
             },
             {
               "$type": "Document",
